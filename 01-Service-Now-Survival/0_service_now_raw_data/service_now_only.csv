@@ -1,0 +1,112 @@
+Asset Number,Incident_Number,Short_Description,Status,Priority,Category,Subcategory,Assigned_To,Assigned_Group,Created_Date
+100080,INC0010047,Access badge not working,Closed,3   Moderate,Security,Physical Access,Chris Parker,Security Team,2024 04 09T15:58:22
+100081,INC0010085,Data center cooling alert,Closed,1   Critical,Facilities,Data Center,Michael Wong,Facilities,2024 04 17T08:05:22
+300006,INC0010048,Printer toner replacement,Open,4   Low,Hardware,Printer,Unassigned,Desktop Support,2024 04 10T08:33:47
+300007,INC0010032,VoIP phone not registering,Stalled,3   Moderate,Hardware,Phone,Sarah Miller,Telecom Support,2024 04 05T14:22:33
+300008,INC0010058,Network switch failure,Stalled,1   Critical,Network,Switch,Michael Wong,Network Team,2024 04 11T11:45:33
+300009,INC0010094,File access problem,Stalled,3   Moderate,Infrastructure,Storage,Michael Wong,Service Desk,2024 04 15T00:17:33
+300010,INC0010018,Video conferencing failure,Closed,2   High,Software,Conference Tools,John Smith,AV Support,2024 04 03T14:28:33
+300011,INC0010024,Conference room display issue,Closed,3   Moderate,Hardware,AV Equipment,John Smith,AV Support,2024 04 04T13:23:45
+300012,INC0010088,Video conferencing equipment upgrade,In Progress,3   Moderate,Hardware,AV Equipment,John Smith,AV Support,2024 04 17T11:36:27
+300013,INC0010069,Laptop keyboard not working,Closed,3   Moderate,Hardware,Laptop,Sarah Miller,Desktop Support,2024 04 12T16:45:33
+300014,INC0010043,Laptop keyboard replacement,Open,4   Low,Hardware,Laptop,Unassigned,Desktop Support,2024 04 09T10:45:17
+300015,INC0010078,Mobile app configuration,Stalled,2   High,Software,VPN,Lisa Taylor,Database Team,2024 04 17T08:56:18
+300035,INC0010095,Server outage,Open,2   High,Mobile,Database,Unassigned,Server Team,2024 04 10T18:55:55
+300036,INC0010029,Monitor flickering issue,Open,4   Low,Hardware,Monitor,Unassigned,Desktop Support,2024 04 05T10:58:33
+300016,INC0010076,Printer not connecting,Stalled,3   Moderate,Network,Server,Carlos Mendez,Database Team,2024 04 18T18:29:07
+300037,INC0010017,Laptop battery replacement,Stalled,4   Low,Hardware,Laptop,Sarah Miller,Desktop Support,2024 04 03T13:15:47
+300017,INC0010090,Laptop battery swelling,Stalled,2   High,Hardware,Laptop,Sarah Miller,Desktop Support,2024 04 17T14:52:33
+300018,INC0010033,New employee equipment setup,Closed,3   Moderate,Hardware,Workstation,Lisa Taylor,Desktop Support,2024 04 05T15:45:12
+300019,INC0010094,Projector bulb replacement,Stalled,3   Moderate,Hardware,AV Equipment,Lisa Taylor,AV Support,2024 04 18T10:47:33
+300020,INC0010037,Projector lamp replacement,Closed,3   Moderate,Hardware,AV Equipment,Lisa Taylor,AV Support,2024 04 08T11:33:47
+300021,INC0010073,Shared printer deployment,Closed,3   Moderate,Hardware,Printer,Lisa Taylor,Desktop Support,2024 04 15T11:45:27
+300022,INC0010090,Internet connectivity issues,Open,3   Moderate,Software,VPN,Unassigned,Database Team,2024 04 14T13:37:44
+300038,INC0010093,Internet connectivity issues,In Progress,4   Low,Mobile,Database,Sarah Miller,Software Support,2024 04 09T14:24:03
+300039,INC0010002,Printer not connecting,In Progress,4   Low,Hardware,Printer,Sarah Miller,Desktop Support,2024 04 01T09:22:18
+300023,INC0010040,Mobile device enrollment,Closed,3   Moderate,Mobile,MDM,Sarah Miller,Mobile Support,2024 04 08T15:58:12
+300024,INC0010062,Mobile device lost,Stalled,2   High,Security,Mobile Device,Sarah Miller,Security Team,2024 04 12T08:15:39
+300025,INC0010057,New hire laptop setup,Closed,3   Moderate,Hardware,Laptop,Sarah Miller,Desktop Support,2024 04 11T10:36:42
+300026,INC0010060,Conference room scheduling display,In Progress,4   Low,Hardware,AV Equipment,Lisa Taylor,Facilities,2024 04 11T14:42:35
+300027,INC0010097,Dual monitor setup request,Closed,4   Low,Hardware,Monitor,Sarah Miller,Desktop Support,2024 04 18T14:36:18
+300028,INC0010004,New monitor request,Closed,4   Low,Hardware,Monitor,Lisa Taylor,Procurement,2024 04 01T11:47:52
+300029,INC0010012,Mobile phone replacement,Closed,3   Moderate,Hardware,Mobile Device,Sarah Miller,Mobile Support,2024 04 02T15:05:12
+300030,INC0010099,Printer not connecting,Closed,4   Low,Hardware,Email,Emily Davis,Network Team,2024 04 05T00:44:55
+300031,INC0010052,Meeting room display calibration,In Progress,4   Low,Hardware,AV Equipment,John Smith,AV Support,2024 04 10T13:22:38
+300032,INC0010099,Document scanner installation,Open,3   Moderate,Hardware,Scanner,Unassigned,Desktop Support,2024 04 18T16:58:22
+300033,INC0010079,Security camera installation,Open,2   High,Security,Physical Security,Unassigned,Security Team,2024 04 16T10:36:33
+300034,INC0010078,Phone system voicemail issue,Stalled,3   Moderate,Hardware,Phone,Sarah Miller,Telecom Support,2024 04 16T09:28:15
+600053,INC0010092,Server outage,Stalled,4   Low,Mobile,Printer,Sarah Miller,Server Team,2024 04 09T03:53:47
+600054,INC0010080,Active Directory group update,In Progress,4   Low,Security,Access,Chris Parker,Identity Management,2024 04 16T11:47:22
+600055,INC0010050,Employee termination processing,Closed,2   High,Account,Deprovisioning,Chris Parker,Identity Management,2024 04 10T10:55:18
+600056,INC0010025,Account lockout,Open,3   Moderate,Security,Access,Unassigned,Service Desk,2024 04 04T14:15:22
+600057,INC0010007,Password reset,Closed,4   Low,Security,Access,John Smith,Service Desk,2024 04 02T09:12:37
+600058,INC0010014,New user setup,In Progress,3   Moderate,Account,Provisioning,Chris Parker,Identity Management,2024 04 03T09:33:21
+600059,INC0010100,Security alert,Stalled,4   Low,Hardware,Email,John Smith,Security Team,2024 04 14T06:37:14
+600060,INC0010083,Software removal request,Open,4   Low,Software,Installation,Unassigned,Software Support,2024 04 16T15:36:18
+600061,INC0010054,Software license audit report,Closed,3   Moderate,Software,Licensing,Lisa Taylor,Software Support,2024 04 10T15:46:52
+600062,INC0010045,Software license request,In Progress,4   Low,Software,Licensing,Lisa Taylor,Software Support,2024 04 09T13:22:47
+600063,INC0010023,Software license renewal,In Progress,3   Moderate,Software,Licensing,Lisa Taylor,Software Support,2024 04 04T11:47:58
+600064,INC0010009,Software installation request,Closed,4   Low,Software,Installation,Lisa Taylor,Software Support,2024 04 02T11:28:45
+600065,INC0010068,CRM dashboard error,In Progress,3   Moderate,Software,CRM,Carlos Mendez,CRM Support,2024 04 12T15:36:27
+600066,INC0010035,CRM data import failure,In Progress,2   High,Software,CRM,Carlos Mendez,CRM Support,2024 04 08T09:47:15
+600067,INC0010010,Database performance issue,Stalled,2   High,Infrastructure,Database,Carlos Mendez,Database Team,2024 04 02T13:17:59
+600068,INC0010100,DNS resolution failure,In Progress,2   High,Network,DNS,Michael Wong,Network Team,2024 04 19T08:15:36
+600069,INC0010065,Domain controller replication error,Closed,1   Critical,Infrastructure,Active Directory,Michael Wong,Server Team,2024 04 12T11:48:36
+600070,INC0010079,VPN connection failure,Closed,3   Moderate,Infrastructure,Server,John Smith,Security Team,2024 04 18T19:49:31
+600071,INC0010089,Mobile device issue,In Progress,3   Moderate,Hardware,Email,Michael Wong,Security Team,2024 04 14T18:53:18
+600072,INC0010096,Unable to login to email,Stalled,3   Moderate,Network,Server,Alex Rodriguez,Network Team,2024 04 10T15:55:16
+600073,INC0010053,Email encryption error,Stalled,3   Moderate,Software,Email,Emily Davis,Exchange Team,2024 04 10T14:38:21
+600074,INC0010001,Unable to login to email,Closed,3   Moderate,Software,Email,John Smith,Service Desk,2024 04 01T08:15:23
+600075,INC0010087,Phishing email report,Open,2   High,Security,Email Security,Unassigned,Security Team,2024 04 17T10:28:33
+600076,INC0010027,ERP system error,Stalled,1   Critical,Software,ERP,Carlos Mendez,ERP Support,2024 04 05T08:22:47
+600077,INC0010084,File access problem,Stalled,3   Moderate,Account,Storage,Sarah Miller,Software Support,2024 04 01T00:12:15
+600078,INC0010086,Software installation request,In Progress,3   Moderate,Account,Server,Alex Rodriguez,Identity Management,2024 04 12T09:18:16
+600079,INC0010077,Email delivery delay,Closed,2   High,Software,Email,Emily Davis,Exchange Team,2024 04 16T08:15:42
+600080,INC0010064,Email signature deployment,In Progress,3   Moderate,Software,Email,Emily Davis,Exchange Team,2024 04 12T10:37:18
+600081,INC0010038,Email distribution list update,In Progress,4   Low,Software,Email,Emily Davis,Exchange Team,2024 04 08T13:22:18
+600082,INC0010042,Conference room booking system error,In Progress,3   Moderate,Software,Scheduling,Alex Rodriguez,Software Support,2024 04 09T09:33:22
+600083,INC0010021,Shared mailbox access request,Closed,4   Low,Software,Email,Emily Davis,Exchange Team,2024 04 04T09:17:42
+600084,INC0010011,Email not receiving external messages,Open,3   Moderate,Software,Email,Unassigned,Exchange Team,2024 04 02T14:22:33
+600085,INC0010063,Shared drive mapping request,Open,4   Low,Infrastructure,Storage,Unassigned,Server Team,2024 04 12T09:25:52
+600086,INC0010055,File permission issue,Open,3   Moderate,Security,Permissions,Unassigned,Security Team,2024 04 11T08:07:46
+600087,INC0010041,Network drive mapping failure,Stalled,3   Moderate,Infrastructure,Storage,Michael Wong,Server Team,2024 04 09T08:17:45
+600088,INC0010013,File server access issue,Closed,2   High,Infrastructure,Storage,Michael Wong,Server Team,2024 04 03T08:12:45
+600089,INC0010077,Password reset,Closed,4   Low,Hardware,MDM,Sarah Miller,Exchange Team,2024 04 15T10:20:23
+600090,INC0010087,Database performance issue,In Progress,3   Moderate,Security,Email,Carlos Mendez,Identity Management,2024 04 18T12:02:25
+600091,INC0010097,Software installation request,In Progress,2   High,Software,Server,Alex Rodriguez,Network Team,2024 04 15T01:14:38
+600092,INC0010003,Server outage   Finance App,Closed,1   Critical,Infrastructure,Server,Michael Wong,Server Team,2024 04 01T10:05:43
+600093,INC0010091,Mobile app configuration,Closed,3   Moderate,Infrastructure,Database,Emily Davis,Software Support,2024 04 06T04:56:31
+600094,INC0010098,Authentication service failure,Stalled,1   Critical,Security,Authentication,Carlos Mendez,Identity Management,2024 04 18T15:47:33
+600095,INC0010059,Multi factor authentication issue,Open,2   High,Security,Authentication,Unassigned,Security Team,2024 04 11T13:32:18
+600096,INC0010044,Single sign on failure,Closed,2   High,Security,Authentication,Carlos Mendez,Identity Management,2024 04 09T11:58:33
+600097,INC0010030,SSO integration request,In Progress,2   High,Security,Authentication,Alex Rodriguez,Identity Management,2024 04 05T11:33:21
+600098,INC0010074,VPN client update failure,Stalled,2   High,Software,VPN,Alex Rodriguez,Network Team,2024 04 15T13:22:36
+600099,INC0010019,Mobile app VPN configuration,In Progress,3   Moderate,Network,VPN,Alex Rodriguez,Network Team,2024 04 03T15:42:15
+600100,INC0010005,VPN connection failure,Open,2   High,Network,VPN,Unassigned,Network Team,2024 04 02T07:33:21
+600101,INC0010080,Password reset,Open,2   High,Account,Authentication,Unassigned,Exchange Team,2024 04 11T17:36:42
+600102,INC0010008,Internet connectivity issues,In Progress,2   High,Network,Internet,Alex Rodriguez,Network Team,2024 04 02T10:45:23
+600103,INC0010093,Website SSL certificate expiring,Closed,2   High,Security,Certificates,Michael Wong,Web Team,2024 04 18T09:35:27
+600104,INC0010051,Website 404 error,Open,2   High,Infrastructure,Web Server,Unassigned,Web Team,2024 04 10T11:45:12
+600105,INC0010022,Website loading error,Stalled,2   High,Infrastructure,Web Server,Michael Wong,Server Team,2024 04 04T10:32:19
+600106,INC0010082,Access point replacement,Stalled,3   Moderate,Network,Wireless,Alex Rodriguez,Network Team,2024 04 16T14:28:37
+600107,INC0010034,WiFi connectivity issue,Open,2   High,Network,Wireless,Unassigned,Network Team,2024 04 08T08:33:21
+600108,INC0010070,Access request for new team member,Stalled,3   Moderate,Security,Access,Chris Parker,Identity Management,2024 04 15T08:12:45
+600109,INC0010072,Outlook inbox rule setup,In Progress,4   Low,Software,Email,Emily Davis,Service Desk,2024 04 15T10:36:42
+600110,INC0010049,Application performance issue,In Progress,2   High,Software,Custom App,Carlos Mendez,Application Support,2024 04 10T09:47:23
+600111,INC0010095,Software installation package,Open,3   Moderate,Software,Deployment,Unassigned,Software Support,2024 04 18T11:58:15
+600112,INC0010084,SharePoint site creation,In Progress,3   Moderate,Software,SharePoint,Emily Davis,SharePoint Team,2024 04 16T16:45:33
+600113,INC0010067,Cloud storage access request,Open,4   Low,Software,Cloud Services,Unassigned,Cloud Team,2024 04 12T14:28:15
+600114,INC0010015,SharePoint access denied,Open,3   Moderate,Software,SharePoint,Unassigned,SharePoint Team,2024 04 03T10:47:18
+600115,INC0010089,Database corruption alert,Closed,1   Critical,Infrastructure,Database,Carlos Mendez,Database Team,2024 04 17T13:45:18
+600116,INC0010039,Database backup failure,Open,1   Critical,Infrastructure,Database,Unassigned,Database Team,2024 04 08T14:45:23
+600117,INC0010075,Report server timeout,Open,2   High,Infrastructure,Reporting,Unassigned,Business Intelligence,2024 04 15T14:38:15
+600118,INC0010082,File access problem,Open,4   Low,Account,Authentication,Unassigned,Service Desk,2024 04 12T15:39:10
+600119,INC0010085,File access problem,Closed,2   High,Infrastructure,MDM,Lisa Taylor,Software Support,2024 04 16T19:03:54
+600120,INC0010098,Database performance issue,Closed,3   Moderate,Security,Storage,Michael Wong,Service Desk,2024 04 13T08:13:57
+600121,INC0010028,Remote desktop connection failure,Closed,3   Moderate,Infrastructure,Server,Michael Wong,Server Team,2024 04 05T09:45:12
+600122,INC0010081,Mobile app configuration,In Progress,3   Moderate,Account,Email,Alex Rodriguez,Service Desk,2024 04 05T09:58:38
+600123,INC0010083,Software installation request,Closed,3   Moderate,Network,Authentication,Michael Wong,Database Team,2024 04 10T22:01:26
+600124,INC0010088,Software installation request,Closed,3   Moderate,Mobile,Server,Sarah Miller,Network Team,2024 04 11T20:08:42
+600125,INC0010031,Outlook crashing repeatedly,Closed,3   Moderate,Software,Email,Emily Davis,Software Support,2024 04 05T13:17:45
+600126,INC0010020,Malware detection alert,Open,1   Critical,Security,Malware,Unassigned,Security Team,2024 04 04T08:05:23
+600127,INC0010092,Zoom room controller update,In Progress,4   Low,Hardware,AV Equipment,John Smith,AV Support,2024 04 18T08:22:15
