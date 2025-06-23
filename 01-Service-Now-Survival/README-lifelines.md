@@ -22,6 +22,7 @@ Died/still in office = censored
 
 ## Time varying survival regression 
 - It means the features (covariates) that affect survival are not constant — they can change during the observation period for the same individual.
+
 | Machine\_ID | Start\_Time | Stop\_Time | Temperature | Load | Failed |
 | ----------- | ----------- | ---------- | ----------- | ---- | ------ |
 | M01         | 0           | 10         | 40°C        | Low  | 0      |
@@ -33,6 +34,7 @@ Died/still in office = censored
 
 ## Regular (time-invariant) models
 - the covariates are fixed — each subject has one row only
+
 | Machine\_ID | Temperature | Load | Duration | Failed |
 | ----------- | ----------- | ---- | -------- | ------ |
 | M01         | 65°C        | High | 20       | 1      |
@@ -55,12 +57,14 @@ Died/still in office = censored
 - A subject can only experience the event once.
 - After the event, they are no longer at risk and should be removed from the dataset.
 - The correct format should have only one row with event=1, and it should be the final row for that subject.
+
 | ID | start | stop | feature1 | feature2 | event |
 | -- | ----- | ---- | -------- | -------- | ----- |
 | A  | 0     | 5    | 10       | 0.5      | 0     |
 | A  | 5     | 12   | 12       | 0.7      | 1     |
 
 - valid scenario is 
+
 | ID | start | stop | feature1 | feature2 | event |                         
 | -- | ----- | ---- | -------- | -------- | ----- | 
 | A  | 0     | 5    | 10       | 0.5      | 0     |                        
@@ -80,5 +84,10 @@ Died/still in office = censored
 `Each subject (or asset) is assumed to experience the event at most once.`
 
 ## Note
-- `Recurrent event survival analysis` might be the key or change the dataset to fit in one of these algs
-- If not, add the event updated data at end, but it will only be assumed to be a separate subject unlees the alg lets the assumption
+- `WeibullAFTFitter`
+
+| ID       | duration | event | Interpretation                                                                                                                           |
+| -------- | -------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| M001\_E1 | 100      | 1     | The machine failed after **100 days** in its **first episode**.                                                                          |
+| M001\_E2 | 85       | 1     | The machine was repaired, and then failed again after **85 days**.                                                                       |
+| M001\_E3 | 95       | 0     | The machine was repaired again, but it was **still working after 95 days** (no failure seen yet). So this episode is **right-censored**. |
