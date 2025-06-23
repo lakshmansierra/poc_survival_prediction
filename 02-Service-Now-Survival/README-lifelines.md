@@ -84,7 +84,7 @@ Died/still in office = censored
 `Each subject (or asset) is assumed to experience the event at most once.`
 
 ## Note
-- `WeibullAFTFitter`
+- `Regular survival models`, tag the same subject observation but under different episode (still each row will be taken by the alg as different subject)
 
 | ID       | duration | event | Interpretation                                                                                                                           |
 | -------- | -------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------- |
