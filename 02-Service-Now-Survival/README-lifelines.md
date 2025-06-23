@@ -40,7 +40,7 @@ Died/still in office = censored
 - These models assume the features stay the same throughout the entire observed period and in future too.
 
 ## Prediction difficulty
-- In `time-varying survival regression`, to predict, we would need to know the covariates values beyond the observed times...
+- In `time-varying survival regression`, to predict, we would need to know the covariates values beyond the observed times... (dynamic rows of covariates, which is not possible to get)
 - In ` Other Regular survival models`, to predict, the model doesn't need to know future covariate values, because there aren’t any as they are fixed
 
 ## Data Correctness for time based survival regression
