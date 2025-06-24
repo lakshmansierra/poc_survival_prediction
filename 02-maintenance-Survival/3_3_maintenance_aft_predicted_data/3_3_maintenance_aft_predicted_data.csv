@@ -1,4 +1,4 @@
-index,actual_lifetime,actual_event,predicted_median_time
+Observation_Index,actual_lifetime,actual_event,predicted_median_time
 521,63,0,73.50219649392565
 737,8,0,60.384858053285974
 740,85,1,85.32293470815401
