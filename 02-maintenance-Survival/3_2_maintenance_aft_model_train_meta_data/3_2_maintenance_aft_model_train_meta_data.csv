@@ -3,10 +3,10 @@ Model,<class 'lifelines.fitters.weibull_aft_fitter.WeibullAFTFitter'>
 Duration column,lifetime
 Event column,broken
 Number of observations,800
-Number of events observed,317
-Log-likelihood,-54.23017329219704
-Concordance,0.9990516238704482
-AIC,128.46034658439407
-LLR test,2363.98932059432
+Number of events observed,326
+Log-likelihood,-40.86751810435413
+Concordance,0.9990992981323182
+AIC,101.73503620870827
+LLR test,2454.2609600136775
 LLR df_train,8
 -log2(p) of LLR,inf
