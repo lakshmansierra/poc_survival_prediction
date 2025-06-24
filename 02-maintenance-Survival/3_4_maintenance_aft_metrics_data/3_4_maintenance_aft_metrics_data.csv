@@ -1,0 +1,2 @@
+model_run_id,model_type,model_version,training_timestamp,dataset_size,feature_count,regression_accuracy,r2,mae,rmse,mape
+waft_predictive_maintenance_20250624_160620,WeibullAFTFitter,1,06/24/2025 16:06,200,10,99.71780407905274,0.9993339306091694,0.21594885060144486,0.2618272844410336,0.002821959209472596
