@@ -1,0 +1,12 @@
+Metric,Value
+Model,<class 'lifelines.fitters.weibull_aft_fitter.WeibullAFTFitter'>
+Duration column,lifetime
+Event column,broken
+Number of observations,1000
+Number of events observed,397
+Log-likelihood,-64.15495705242148
+Concordance,0.9991090601727053
+AIC,148.30991410484296
+LLR test,2960.9509423603467
+LLR df,8
+-log2(p) of LLR,inf
