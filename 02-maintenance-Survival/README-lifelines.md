@@ -9,16 +9,25 @@ Died/still in office = censored
 ```
 - This shows that `event` and `censoring` can mean different things, depending on what you're modeling.
 
-## Survival Function – S(t)
+## Functions
+### Survival Function – S(t)
 - S(t) is the probability that the event has not occurred by time t
 - y axis indicates probability that the event hasn't occured
 - we can see that at time 40, about 75% of the population is still alive.
 ![alt text](../00-img/survival.png)
 
-## Hazard Function – h(t)
+### Hazard Function – h(t)
 - h(t) is the instantaneous rate at which the event occurs at exactly time t, given that the subject has survived up to that point.
 -  Hazard function is like saying, "There’s a 10% chance of rain per hour at 4 PM", But that doesn't mean it will rain exactly at 4 PM, just that the risk of rain is higher then
 ![alt text](../00-img/hazard_&_cumm_hazard.png)
+
+### NOTE
+| Concept                      | Interpretation                                                |
+| ---------------------------- | ------------------------------------------------------------- |
+| **Survival function $S(t)$** | Probability you're still alive (or functional) at time $t$    |
+| **Hazard function $h(t)$**   | Risk of dying **right now**, given you've made it to time $t$ |
+| **Cumulative hazard $H(t)$** | Total accumulated risk of dying up to time $t$                |
+
 
 ## Time varying survival regression 
 - It means the features (covariates) that affect survival are not constant — they can change during the observation period for the same individual.
